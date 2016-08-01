@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Theoretical_Material</class>
+ <widget class="QWidget" name="Theoretical_Material">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>648</width>
+    <height>694</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Theoretical_Material</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>648</width>
+     <height>694</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Next_Page">
+   <property name="geometry">
+    <rect>
+     <x>608</x>
+     <y>10</y>
+     <width>30</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../../../../Desktop/TerVer_Lab1/TerVer_Lab1/Resources/next.png</normaloff>../../../../../Desktop/TerVer_Lab1/TerVer_Lab1/Resources/next.png</iconset>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Previous_Page">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>30</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../../../../Desktop/TerVer_Lab1/TerVer_Lab1/Resources/back.png</normaloff>../../../../../Desktop/TerVer_Lab1/TerVer_Lab1/Resources/back.png</iconset>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
